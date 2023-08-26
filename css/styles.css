@@ -362,7 +362,7 @@ svg {
 */
 
 .section-hero {
-    height: 600px;
+
     padding: 188px 0;
 
     display: flex;
@@ -380,7 +380,7 @@ svg {
 
 
 .hero-box {
-    position: absolute;
+    /* position: absolute; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1439,7 +1439,7 @@ svg {
     }
 
     .team-box {
-        max-width: 548px;
+        max-width: 584px;
     }
 
     .team-list-item {
