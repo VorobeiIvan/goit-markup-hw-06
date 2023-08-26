@@ -1291,7 +1291,7 @@ svg {
     }
 
 
-    .footer-container {
+    .center {
         flex-direction: column;
         align-items: center;
         gap: 72px;
